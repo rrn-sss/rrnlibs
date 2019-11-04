@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For PubSubClient
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+rrnlibs		 KEYWORD1
+CfgParser	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getParam	 KEYWORD2
+reset	 	 KEYWORD2
+start	 	 KEYWORD2
+stop	 	 KEYWORD2
+isExpired	 KEYWORD2
+setTrim		 KEYWORD2
+setDelimiter KEYWORD2
+setEnding    KEYWORD2
+delSpec      KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+_max_instring_len_ KEYWORD3
